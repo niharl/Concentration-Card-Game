@@ -10,7 +10,7 @@ To install Pygame, run the following command in the terminal:
 pip3 install pygame
 ```
 
-To run, simply run the tetris.py file.
+To run, simply run the memory_game.py file.
 
 ## Gameplay
 Select the following options on the homepage:
@@ -21,9 +21,17 @@ Select the following options on the homepage:
 Once the game starts, the aim is to make all cards disappear. Cards are selected and flipped in pairs.  If the two cards selected match, they disappear.  Otherwise, there is a limited amount of time (determined by the speed) to see and memorize the two cards before they flip back over.
 
 ## Interface Screenshots
+<i>Homepage</i>
+
+<img src="https://github.com/niharl/Concentration-Card-Game/blob/main/Home%20Page%20Screenshot.png" width=500>
+
 <i>Gameplay</i>
 
-<img src="https://github.com/niharl/Concentration-Card-Game/blob/main/Game%20Over%20Screenshot.png" size = 20%>
+<img src="https://github.com/niharl/Concentration-Card-Game/blob/main/Gameplay%20Screenshot.png" width=500>
+
+<i>Game Over</i>
+
+<img src="https://github.com/niharl/Concentration-Card-Game/blob/main/Game%20Over%20Screenshot.png" width=500>
 
 ## Authors
 
